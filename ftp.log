@@ -1,0 +1,9 @@
+ftp_addr:192.168.1.128
+ftp_user_addr:192.168.1.103
+ftp_user:USER aaa
+ftp_pass:PASS a
+
+ftp_addr:192.168.1.128
+ftp_user:USER aaa
+ftp_pass:PASS a
+
